@@ -1,0 +1,14 @@
+E:\Projects\Visual Studio\iexplore\bin\Release\iexplore.exe.config
+E:\Projects\Visual Studio\iexplore\bin\Release\iexplore.exe
+E:\Projects\Visual Studio\iexplore\bin\Release\iexplore.pdb
+E:\Projects\Visual Studio\iexplore\obj\Release\MainWindow.g.cs
+E:\Projects\Visual Studio\iexplore\obj\Release\App.g.cs
+E:\Projects\Visual Studio\iexplore\obj\Release\iexplore_MarkupCompile.cache
+E:\Projects\Visual Studio\iexplore\obj\Release\iexplore_MarkupCompile.lref
+E:\Projects\Visual Studio\iexplore\obj\Release\MainWindow.baml
+E:\Projects\Visual Studio\iexplore\obj\Release\iexplore.g.resources
+E:\Projects\Visual Studio\iexplore\obj\Release\iexplore.Properties.Resources.resources
+E:\Projects\Visual Studio\iexplore\obj\Release\iexplore.csproj.GenerateResource.cache
+E:\Projects\Visual Studio\iexplore\obj\Release\iexplore.csproj.CoreCompileInputs.cache
+E:\Projects\Visual Studio\iexplore\obj\Release\iexplore.exe
+E:\Projects\Visual Studio\iexplore\obj\Release\iexplore.pdb

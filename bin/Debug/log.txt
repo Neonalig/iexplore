@@ -1,0 +1,6 @@
+>>File: "E:\Projects\Visual Studio\iexplore\bin\Debug\log.txt" found, logging enabled<<
+Arg: "-k" | Response: kiosk = true
+Arg: "-private" | Response: prv = true
+Arg: "-extoff" | Response: extoff = true
+<<No URL was found! Opening blank session>>
+<>Saving Log<>
